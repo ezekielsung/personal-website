@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.8142fc1e.chunk.css",
+    "main.js": "/personal-website/static/js/main.d8d67641.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.d8d67641.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.5fff88c0.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.5fff88c0.js.map",
+    "static/css/2.e58df67e.chunk.css": "/personal-website/static/css/2.e58df67e.chunk.css",
+    "static/js/2.f437ac6c.chunk.js": "/personal-website/static/js/2.f437ac6c.chunk.js",
+    "static/js/2.f437ac6c.chunk.js.map": "/personal-website/static/js/2.f437ac6c.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.877fe28ab8cebd5433358af6027b1b80.js": "/personal-website/precache-manifest.877fe28ab8cebd5433358af6027b1b80.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/2.e58df67e.chunk.css.map": "/personal-website/static/css/2.e58df67e.chunk.css.map",
+    "static/css/main.8142fc1e.chunk.css.map": "/personal-website/static/css/main.8142fc1e.chunk.css.map",
+    "static/js/2.f437ac6c.chunk.js.LICENSE.txt": "/personal-website/static/js/2.f437ac6c.chunk.js.LICENSE.txt",
+    "static/media/best-app-development-tool.md": "/personal-website/static/media/best-app-development-tool.70f40b0f.md",
+    "static/media/common-misconceptions-about-payment.md": "/personal-website/static/media/common-misconceptions-about-payment.bdea94e6.md",
+    "static/media/slick-theme.css": "/personal-website/static/media/slick.f97e3bbf.svg",
+    "static/media/things-to-know-about-startup-business.md": "/personal-website/static/media/things-to-know-about-startup-business.78d24824.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fff88c0.js",
+    "static/css/2.e58df67e.chunk.css",
+    "static/js/2.f437ac6c.chunk.js",
+    "static/css/main.8142fc1e.chunk.css",
+    "static/js/main.d8d67641.chunk.js"
+  ]
+}
