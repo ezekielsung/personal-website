@@ -2,7 +2,7 @@
   "name": "bolby",
   "version": "1.0.2",
   "private": true,
-  "homepage": "https://ezekielsung.github.io/personal-website",
+  "homepage": "https://ezekiesung.com",
 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

@@ -71,7 +71,8 @@ function Contact() {
                 animateOnce={true}
               >
                 <p>
-                  Send me an <a href="ezekielsung96@gmail.com">email</a>. 👋
+                  Send me an <a href="mailto:ezekielsung96@gmail.com">email</a>.
+                  👋
                 </p>
               </ScrollAnimation>
             </div>

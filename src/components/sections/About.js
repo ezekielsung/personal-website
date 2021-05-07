@@ -6,7 +6,7 @@ import Skill from "../elements/Skill";
 
 const aboutContent = {
   name: "Ezekiel Sung",
-  avatarImage: "/images/avatar.png",
+  avatarImage: "avatar.png",
   content:
     "Hello, I am Ezekiel Sung and I am a fresh computer science graduate from the Bay Area. I have experience working in a SCRUM environment, building web applications and machine learning. I love learning new technologies and am eagar to learn. ",
 };
@@ -58,7 +58,7 @@ function About() {
         <div className="row">
           <div className="col-md-3">
             <div className="text-center text-md-left">
-              <img src={aboutContent.avatarImage} alt={aboutContent.name} />
+              <img src={"avatar.png"} alt={aboutContent.name} />
             </div>
             <div className="spacer d-md-none d-lg-none" data-height="30"></div>
           </div>
@@ -69,7 +69,11 @@ function About() {
                 <div className="col-md-6">
                   <p>{aboutContent.content}</p>
                   <div className="mt-3">
-                    <a href="!#" className="btn btn-default">
+                    <a
+                      href="https://drive.google.com/file/d/1zb3bU0VcJPtjmICuJH1k2WjsE_WhP9hb/view?usp=sharing"
+                      target="_blank"
+                      className="btn btn-default"
+                    >
                       Download Resume
                     </a>
                   </div>
