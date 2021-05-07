@@ -9,7 +9,7 @@ import "./App.scss";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/personal-website">
       <Switch>
         <Route path="/" exact>
           <HomepageDark />
