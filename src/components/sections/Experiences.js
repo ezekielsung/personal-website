@@ -15,7 +15,7 @@ const educationData = [
 const experienceData = [
   {
     id: 1,
-    title: "Summer Camp Teacher",
+    title: "Summer Camp Teacherr",
     years: "Summer 2018",
     content:
       "Planned and taught elementary school kids basic programming skills using iPads.",
