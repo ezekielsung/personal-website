@@ -22,10 +22,10 @@ const experienceData = [
   },
   {
     id: 2,
-    title: "Junior Varsity/Varsity Badminton Coach",
-    years: "2015-2016",
+    title: "Junior Varsdfasdfsity/Varsity Badminton Coach",
+    years: "2015-asdf2016",
     content:
-      "Managed and trained a team of 50 players on the sport of Badminton.",
+      "Managed and traiasdfsadfned a team of 50 players on the sport of Badminton.",
   },
 ];
 
